@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ---
 <h2 align="center"> Olamide's Stats
    <a href="https://www.linkedin.com/in/olamide-fasogbon/">
-     <br><img src="https://github.com/certified-draco/certified-draco/github-metrics.svg"><br> 
+     <br><img src="https://github.com/certified-draco/certified-draco/blob/main/github-metrics.svg"><br> 
   </a>
 </h2>
 
