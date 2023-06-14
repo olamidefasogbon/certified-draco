@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> Hey <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif">, I'm <a href="https://www.linkedin.com/in/brandon-sovran/">Brandon</a></h1>
 
+## 🤝 Connect with me:
+<a href="https://linkedin.com/in/michael-mcgarvey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="username" height="30" width="40" /></a>
+
 <p align="center"> 
-	<a href="https://leetcode.com/bsovran/">
+	<a href="https://leetcode.com/bsovran/" target="blank"><img align="center">
 		<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"/>
 	</a>
 	<a href="https://www.linkedin.com/in/brandon-sovran/">
